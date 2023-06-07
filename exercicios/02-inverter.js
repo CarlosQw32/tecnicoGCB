@@ -11,3 +11,6 @@ function inverterArray(array) {
   const arrayInvertido = inverterArray(meuArray);
   console.log(arrayInvertido); 
   
+  /*Neste exemplo, o array [1, 2, 3, 4, 5] é passado como argumento para a função inverterArray. 
+  A função itera pelo array de trás para frente usando um loop for, adicionando cada elemento ao novo array arrayInvertido.
+  Ao final do loop, o novo array é retornado e impresso no console.*/

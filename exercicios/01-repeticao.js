@@ -9,3 +9,7 @@ function criarArray(qtd, valor) {
 // Aplicando função
 const resultado = criarArray(9, 'n');
 console.log(resultado); 
+
+/*Neste exemplo, a função criarArray é chamada com os argumentos 9 e 'n'. 
+Ela cria um novo array contendo 9 elementos, todos com o valor 'n'. 
+O resultado é então impresso no console.*/
